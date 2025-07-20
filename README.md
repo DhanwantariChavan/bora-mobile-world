@@ -59,14 +59,15 @@ Welcome to **Bora Mobile World**, a modern and feature-rich e-commerce platform 
 
 ---
 
-## How to Run Locally
+How to Run Locally
 
-1. **Clone the repository**
+1. Clone the Repository
 
 git clone https://github.com/DhanwantariChavan/bora-mobile-world.git
+
 cd bora-mobile-world
 
-Start Backend
+2. Start the Backend
 
 cd server
 
@@ -74,7 +75,7 @@ npm install
 
 npm run dev
 
-Start Frontend
+3. Start the Frontend
 
 cd client
 
@@ -99,5 +100,5 @@ Email Notifications
 
 Delivery Tracking Integration
 
-Developer: 
+Developer:
 Dhanwantari Chavan
