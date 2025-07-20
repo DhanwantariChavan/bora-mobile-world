@@ -63,27 +63,34 @@ Welcome to **Bora Mobile World**, a modern and feature-rich e-commerce platform 
 
 1. **Clone the repository**
 
-git clone https://github.com/your-username/bora-mobile-world.git
+git clone https://github.com/DhanwantariChavan/bora-mobile-world.git
 cd bora-mobile-world
 
 Start Backend
 
 cd server
+
 npm install
+
 npm run dev
 
 Start Frontend
 
 cd client
+
 npm install
+
 npm run dev
 
 
 Customization
+
 Project Name: Bora Mobile World
+
 Domain: Mobile Phones, VIP Numbers & Accessories
 
 Future Enhancements
+
 Wishlist / Save for Later
 
 Product Reviews & Ratings
@@ -92,5 +99,5 @@ Email Notifications
 
 Delivery Tracking Integration
 
-Developer
+Developer: 
 Dhanwantari Chavan
